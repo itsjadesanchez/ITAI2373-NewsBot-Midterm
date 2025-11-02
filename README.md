@@ -90,7 +90,3 @@ Enhance the data to offer live news feeds.
 Apply topic modeling and trend detection to get deeper information.
 
 Improve the computational efficiency with large datasets.
-
-License
-
-The project is an educational one, and no commercial licensing can be used in this case.
